@@ -5,3 +5,8 @@ Rencana belajar UI DESAIN Rizal :
 - Mengexplore di Dribbble
 - Menggunakan FIGMA
 - Menggunakan Adobe XD ( Optional )
+
+
+Web Development :
+- React
+- Vue JS
